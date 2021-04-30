@@ -14,4 +14,10 @@ Created models:
 
 - Raccoon
     - Raccoon that is wearing a shirt
-    - Still WIP (currently texturing)
+
+- Frog
+    - Cute frog wearing a t-shirt
+
+- Sand digger
+    - Still WIP
+    - Children's sandbox toy
