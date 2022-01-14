@@ -1,5 +1,5 @@
 # 3d-models
-Open source 3D models I've made!
+Open source 3D models I've made! Feel free to use :)
 
 Created models:
 
